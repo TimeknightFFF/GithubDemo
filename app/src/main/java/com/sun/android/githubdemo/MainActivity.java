@@ -6,7 +6,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-
+/**
+ * 我修改过了。。。。。。。。。。
+ */
 public class MainActivity extends ActionBarActivity {
 
     @Override
